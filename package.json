@@ -1,0 +1,12 @@
+{
+  "name": "@vyrnn/zeraph-main",
+  "version": "0.0.1-alpha",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
